@@ -13,8 +13,8 @@ void InitConsole() {
     AllocConsole();
     FILE* fptr;
     freopen_s(&fptr, "CONOUT$", "w+", stdout);
-    SetConsoleTitleA("17.30 Gameserver | Starting...");
-    Log("Welcome to 17.30 Gameserver! Made with love by ObsessedTech!");
+    SetConsoleTitleA("17.30 AGSM | Starting...");
+    Log("Welcome to 17.30 AGSM! Made with love by ObsessedTech!");
 }
 
 void LoadWorld() {

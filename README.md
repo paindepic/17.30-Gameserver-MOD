@@ -1,4 +1,4 @@
-# 17.30-Gameserver
+# 17.30-AGSM
 - Used for Phase
 # Features:
 - Proper bots
